@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404842267 source:e:\new folder\root\nova pasta\teste 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
